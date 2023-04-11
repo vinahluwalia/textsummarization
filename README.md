@@ -6,4 +6,4 @@ This project is my tinkering with ML from a Machine Learning Engineering perspec
 Learnings:
 - Developing an asynchronous RESTful API with Python and FastAPI
 - Developing and Testing a FastAPI app with Pytest
-- Containerization of FastAPI and Postres in Docker
+- Containerization of FastAPI and Postgres in Docker
