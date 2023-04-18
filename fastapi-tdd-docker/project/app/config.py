@@ -11,7 +11,7 @@ log = logging.getLogger("uvicorn")
 
 class Settings(BaseSettings):
     environment: str = "dev"
-    testing: bool = 0
+    testing: bool = bool(0)
     database_url: AnyUrl = None
 
 
